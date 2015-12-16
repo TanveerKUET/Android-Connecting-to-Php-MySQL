@@ -1,0 +1,3 @@
+create a data base name "practisedb"
+
+then inport the "products.sql" file. Then paste the "json_practise" folder in htdocs folder if u are using xampp
